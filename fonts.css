@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-bold.otf') format('opentype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-bold-italic.otf') format('opentype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-light.otf') format('opentype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../Klavika-light-italic.otf') format('opentype');
+	font-weight: lighter;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-medium.otf') format('opentype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-medium-italic.otf') format('opentype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Klavika';
+	src: url('../klavika-regular-italic.otf') format('opentype');
+	font-weight: normal;
+	font-style: italic;
+}
